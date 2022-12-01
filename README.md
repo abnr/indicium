@@ -3,10 +3,14 @@
 ## Arquivos
 
 Abandono_teste.csv: exemplo usado para o teste do modelo.
+
 indicium.ipynb: notebook com o passo a passo para criação do modelo.
+
 modelo.pkl: o modelo final usado
+
 predict.py: o script que carrega o pkl do modelo, lê o csv de entrada
 e salva as previsões em um .csv de saída.
+
 requirements.txt: para facilitar a reprodução do código esse arquivo
 contêm a saída do pip freeze (ou seja as bibliotecas usadas e suas
 respectivas versões)
